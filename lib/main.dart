@@ -70,16 +70,7 @@ void main() async {
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown
   ]);
-  // await Firebase.initializeApp(
-  //     name: 'ShelterStocksDemo',
-  //     options: const FirebaseOptions(
-  //         apiKey: "AIzaSyAPtIwVV0mxcf3FsiiM2jwS2zKYbM3LT60",
-  //         projectId: "shelterstocksdemo",
-  //         storageBucket: "shelterstocksdemo.appspot.com",
-  //         messagingSenderId: "690125551128",
-  //         appId: "1:690125551128:android:72d6f4e41daa02e9a2b56d"
-  //     )
-  // );
+
   await Firebase.initializeApp(
     name: 'ShelterStocksDemo',
     options: const FirebaseOptions(
