@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690125551128",
+    "project_id": "shelterstocksdemo",
+    "storage_bucket": "shelterstocksdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690125551128:android:72d6f4e41daa02e9a2b56d",
+        "android_client_info": {
+          "package_name": "com.example.shelterstocks_prototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVSeV7PD4J_4-ky0GdCmKx9FeyPRgVY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
